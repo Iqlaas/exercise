@@ -17,5 +17,5 @@ func main() {
 		}	
 	}
 
-	fmt.Println("Total sum multiply of 3 or 5 below 1000 is",sum)
+	fmt.Println("Total sum multiply of 3 or 5 below 1000 is:",sum)
 }
